@@ -4,4 +4,4 @@ def print_njoki():
 
 print_njoki()
 #def means define
-#you must type 'print_njoki()' before you run code in order to call the 'def_function'
+#you must type 'print_njoki()' before you run code in order to call the 'def_function pwd
